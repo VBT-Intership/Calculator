@@ -1,4 +1,4 @@
-#Simple Calculator - Fatih Kurçenli
+# Simple Calculator - Fatih Kurçenli
 
 A simple calculator in dart language.
 
